@@ -21,7 +21,7 @@ namespace _200255048_Proje2
                     ana.Show();
                     this.Hide();
                 }
-                else MessageBox.Show("TC KÝMLÝK NUMARASI YA DA ÞÝFRE HATALI.");
+                else MessageBox.Show("TC KÝMLÝK NUMARASI YA DA ÞÝFRE HATALI."); //DENEME
             }
         }
         //Girilen bilgileri temizleyen Label
